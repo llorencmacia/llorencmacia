@@ -1,0 +1,5 @@
+- Hi, I’m @llorencmacia
+- I’m interested in CFD and Fluid Mechanics.
+- I’m currently learning how to program on jupyer an analytical profile for a supersonic nozzle.
+- I’m looking to collaborate on educative programs to teach CFD.
+- How to reach me: please write me on llorenc.macia(at)upc(dot)edu
